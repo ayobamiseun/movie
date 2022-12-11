@@ -2,7 +2,7 @@ import Nav  from './components/Nav';
 import React, { Component } from 'react';
 import TextNav from './components/TextNav';
 import Hero from './components/Hero'
-import Movies from './components/Movies';
+// import Pages from './components/pages';
 
 import './App.css';
 
@@ -14,7 +14,7 @@ function App() {
        
        </Nav>
        <Hero/>
-       <Movies/>
+       {/* <Pages/> */}
      
       </>
 
